@@ -1,5 +1,5 @@
 # Rock Paper Scissors Python Project
-The development of my Rock Paper Scissor game from Python to Pygame for Stanford Code in place
+The development of my Rock Paper Scissor game made in Python starting on Stanford Code in place to Pygame
 
 The game developed is a game that has 3 game options. 
 1) Rock, Paper, Scissors.
