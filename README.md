@@ -1,4 +1,4 @@
-# Rock_paper_scissors_python
+# Rock Paper Scissors Python Project
 The development of my Rock Paper Scissor game from Python to Pygame for Stanford Code in place
 
 The game developed is a game that has 3 game options. 
