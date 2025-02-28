@@ -16,8 +16,5 @@ Same code as the 'Stanford Code in place' version and runs in the python environ
 
 -Pygame version 3
 
-Revised code to run in Pygame with a game window. 
+Revised code to run in Pygame with a game window. This version also has music added to it.
 
--Andriod app version 4 (coming)
-
-Pygame version converted to Andriod. 
