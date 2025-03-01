@@ -6,7 +6,7 @@ The game developed is a game that has 3 game options.
 2) Rock, Paper, Scissors, Lizard, Spock. (Based on Big Bang Theory Game)
 3) Cat, Mouse, Elephant. (which is a child friendly version of Rock, Paper, Scissors).
 
-##Stanford Code in place version 1
+## -Stanford Code in place version 1
 
 This code is to be run on the code in place environment.
 
@@ -14,12 +14,12 @@ The version of the game allows you to select one of the 3 games with the choice 
 
 The game shows a graphic for each round based on the choices and it accounts for invalid input.
 
-##Python version 2
+## -Python version 2
 
 Code written in Visual Studio Code
 Same code as the 'Stanford Code in place' version and runs in the python environment
 
-##Pygame version 3
+## -Pygame version 3
 
 Code written in Visual Studio Code
 Revised code to run in Pygame with a game window. 
