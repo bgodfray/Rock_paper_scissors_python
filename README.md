@@ -8,7 +8,7 @@ The game developed is a game that has 3 game options.
 
 -Stanford Code in place version 1
 
-This code be run on the code in place environment.
+This code is to be run on the code in place environment.
 
 -Python version 2
 
