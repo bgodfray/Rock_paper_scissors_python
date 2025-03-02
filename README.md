@@ -27,7 +27,7 @@ Revised code to run in Pygame with a game window.
 
 The version of the game allows you to select one of the 3 games with the choice of playing 1, 3 or 5 rounds.
 
-Coding for this version was learned from the following youtube video https://www.youtube.com/watch?v=geE6vDfOlHY and then amended with my own option from reading the pygame manual.
+Coding for this version was learned from the following youtube video https://www.youtube.com/watch?v=geE6vDfOlHY and then amended with my own option from reading the pygame manual at https://www.pygame.org/docs/.
 
 The game has a 5 second countdown for the player to make their choice. If the player fails to pick an option they lose that round. There is also has music on the menu and a wining and losing tune.
 
